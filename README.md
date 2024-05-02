@@ -1,1 +1,2 @@
 # Prodigy_ML_04
+### Overview This repository presents a sophisticated hand gesture recognition system employing Convolutional Neural Networks (CNNs) for intuitive human-computer interaction and gesture-based control systems. The project seamlessly integrates computer vision techniques with machine learning methodologies to accurately classify various hand gestures, paving the way for innovative applications in virtual reality, gaming, assistive technology, and beyond.
